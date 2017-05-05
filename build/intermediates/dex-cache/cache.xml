@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nandpa/Documents/Intellij/AdvancedAndroid_Squawker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/nandpa/Documents/Intellij/AdvancedAndroid_Squawker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9f4cdd4cd6d1ea81488000b3261d5bb3d8f33475/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nandpa/Documents/Intellij/AdvancedAndroid_Squawker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa10780500ec9fa3a6504edcc10082d754f430ae">
+        <dex dex="/Users/nandpa/Documents/Intellij/AdvancedAndroid_Squawker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b7be7df3e7d197f3ffa25b13b3a45367e66a78bc/classes.dex" />
+    </item>
+
+</items>
